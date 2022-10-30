@@ -18,8 +18,8 @@ public class Anime {
     @Id
     private Integer id;
 
-
+/*
     @NotNull
-    @NotEmpty(message = "name can't be empty")
+    @NotEmpty(message = "name can't be empty")*/
     private String name;
 }
